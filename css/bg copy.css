@@ -1,0 +1,17 @@
+.head{
+  background-color: #EEEEEE;
+  position: relative;
+}
+
+.img_elefant{
+  margin: 0 0 0 auto;
+  width: 50%;
+  display: block;
+}
+
+.Text_commit{
+ font-size: 6vmax;
+ position: absolute;
+ top:50%;
+ left:20%;
+}
